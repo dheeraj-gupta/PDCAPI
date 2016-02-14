@@ -1,0 +1,8 @@
+---
+applications:
+- name: pdcAPI
+  memory: 128MB
+  instances: 1
+  command: node app.js
+services:
+- mymongo

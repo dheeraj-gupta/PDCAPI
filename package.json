@@ -1,0 +1,24 @@
+{
+  "name": "BooksAPI",
+  "version": "1.0.0",
+  "description": "BooksAPI",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "bower": "^1.7.1",
+    "express": "^4.13.3",
+    "express-generator": "^4.13.1",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.6",
+    "mongodb": "^2.0.52",
+    "mongoose": "^4.3.4",
+    "underscore": "^1.8.3",
+    "vash": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
